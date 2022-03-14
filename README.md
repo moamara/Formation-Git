@@ -9,11 +9,6 @@ texte
 texte
 Formation
 
-
-
-php php
-phpp
-
 github github github
 github github
 
